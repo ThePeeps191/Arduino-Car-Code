@@ -1,0 +1,2 @@
+<h1>Welcome To Our Arduino Car Project!</h1>
+<p>We made this project for our Science Fair project, the code is here and on <a href="https://github.com/ThePeeps191/Arduino-Car-Code" target="blank">GitHub</a>.</p>
