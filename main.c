@@ -9,9 +9,9 @@ struct sensor {
 }
 
 struct motors {
-  struct leftMotors {
+  struct leftM {
     const int lfm = 3;
     const int lbm = 4; 
     }
-    struct rightM
+    struct rightM {}
 }
